@@ -1,5 +1,6 @@
 # Computer-Vision-Project
 Setup
+
 1)After downloading the repository, remove all .gitkeep files inside the data folder 
 2)KITTI dataset
    Link to Donwload : https://s3.eu-central-1.amazonaws.com/avg-kitti/data_depth_selection.zip 
